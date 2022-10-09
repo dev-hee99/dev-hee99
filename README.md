@@ -1,7 +1,8 @@
-## Hi there 👋 I'm Changhee Kim 
-~~~
-I'm Backend Develope
-~~~
+## Hi there 👋 I'm Changhee Kim
+
+~~~~
+I'm Backend Developer
+~~~~
 
 ---
 - <a href='https://changheesjunk.tistory.com/' target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/BLOG-ED8B0E?style=flat-plasticstyle&logo=Tistory&logoColor=white" size=""><a/>
@@ -45,8 +46,8 @@ DB<br>
 
 ### ⭐️ My Stats
 
-| ![dev-hee99's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hee99&show_icons=true&theme=prussian)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hee99&layout=compact)](https://github.com/dev-hee99/github-readme-stats) |
-| ---      | ---       |
+| ![dev-hee99's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hee99&show_icons=true&theme=prussian)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hee99&layout=compact&theme=prussian)](https://github.com/dev-hee99/github-readme-stats) |
+| ---      |------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 
