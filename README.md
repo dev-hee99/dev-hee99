@@ -6,13 +6,13 @@ I'm Backend Developer
 ---
 - <a href='https://changheesjunk.tistory.com/' target="_blank" style="text-decoration:none">👨🏼‍💻Blog<a/>
 - <a href='mailto:ch9n9.hee@gamil.com' >📧Email<a/>
-- <a href='https://www.instagram.com/ch9n9.hee/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ch9n9.hee"/></a>
+- <a href='https://www.instagram.com/ch9n9_hee/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ch9n9_hee"/></a>
 
-### 💻 My tech
+### 💻 My Tech Stack
 
 ----
-
-<img src="https://img.shields.io/badge/Java-ED8B0E?style=for-the-badge&logo=java&logoColor=white">
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B0E?style=for-the-badge&logo=java&logoColor=white" size="">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,7 +29,7 @@ DB<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
+</div>
 
 ### 💼 Working
 
@@ -42,7 +42,14 @@ DB<br>
 - 2020.09 ~ 2021.04 Goodee Academy 빅데이터 플랫폼 개발자 양성과정(JAVA,JSP,SPRING,XML/AJAX,HTML/CSS, JAVASCRIPT, HADOOP, PYTHON)
 
 ### ⭐️ My Stat
-![dev-hee99's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hee99&show_icons=true&theme=prussian)
+
+| ![dev-hee99's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hee99&show_icons=true&theme=prussian)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hee99&layout=compact)](https://github.com/dev-hee99/github-readme-stats) |
+| ---      | ---       |
+
+
+
+
+
 
 
 
