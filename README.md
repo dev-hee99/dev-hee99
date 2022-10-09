@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Changhee Kim
+## Hi there 👋
 
 ~~~~
-I'm Backend Developer
+I'm Changhee Kim 👨🏼‍💻Backend Developer
 ~~~~
 
 ---
@@ -48,12 +48,6 @@ DB<br>
 
 | ![dev-hee99's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hee99&show_icons=true&theme=prussian)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hee99&layout=compact&theme=prussian)](https://github.com/dev-hee99/github-readme-stats) |
 | ---      |------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-
-
-
-
 
 
 <!--
