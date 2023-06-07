@@ -33,6 +33,8 @@ DB<br>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-plastic&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-plastic&logo=mysql&logoColor=white">
 </div>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-plastic&logo=mongodb&logoColor=green">
+</div>
 
 ### 💼 Working
 
