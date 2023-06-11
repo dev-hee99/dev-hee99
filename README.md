@@ -4,11 +4,15 @@
 I'm Changhee Kim 👨🏼‍💻Backend Developer
 ~~~~
 
+📞 Contact
 ---
-- <a href='https://changheesjunk.tistory.com/' target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/BLOG-ED8B0E?style=flat-plasticstyle&logo=Tistory&logoColor=white" size=""><a/>
 - <a href='mailto:ch9n9.hee@gmail.com' target="_blank" style="text-decoration:none" ><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-plasticstyle&logo=gmail&logoColor=white"><a/>
 - <a href='https://www.instagram.com/ch9n9_hee/' target='_blank' style='text-decoration:none' ><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-plasticstyle&logo=Instagram&logoColor=white&link=https://www.instagram.com/ch9n9_hee"/></a>
 
+📘 Dev Log
+---
+- <a href='https://changheesjunk.tistory.com/' target="_blank" style="text-decoration:none"><img src="https://img.shields.io/badge/BLOG-ED8B0E?style=flat-plasticstyle&logo=Tistory&logoColor=white" size=""><a/>
+  
 ### 💻 My Tech Stack
 
 ----
@@ -32,8 +36,15 @@ DB<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-plastic&logo=oracle&logoColor=black">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-plastic&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-plastic&logo=mysql&logoColor=white">
-</div>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-plastic&logo=mongodb&logoColor=green">
+
+DevOps<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-plastic&logo=Docker&logoColor=blue">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-plastic&logo=jenkins&logoColor=black">
+  
+Cloud<br>
+<img src="https://img.shields.io/badge/Amazone AWS-232F3E?style=flat-plastic&logo=amazonaws&logoColor=black">
+
 </div>
 
 ### 💼 Working
