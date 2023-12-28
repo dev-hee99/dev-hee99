@@ -50,7 +50,8 @@ Cloud<br>
 ### 💼 Working
 
 ----
-- 2021.08.17 ~ ing <a href='https://www.wisenut.com/' target="_blank" style="text-decoration:none">WISENUT</a> 
+- 2021.08.17 ~ 2023.12.11 <a href='https://www.wisenut.com/' target="_blank" style="text-decoration:none">WISENUT</a>
+- 2023.12.12 ~ ing 💻 freelancer
   
 ### 🌱 Education
 
